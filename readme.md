@@ -1,0 +1,1 @@
+deep cmake for library authors.
